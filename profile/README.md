@@ -15,9 +15,9 @@
 
 ## What we're building
 
-Observol is a website and uptime monitoring platform for teams and agencies
-who want to know the moment something breaks — and get told about it in a way
-that respects everyone's time.
+Observol is a website and uptime monitoring platform for teams who want to
+know the moment something breaks — and get told about it in a way that
+respects everyone's time.
 
 ### Overview
 
@@ -32,7 +32,8 @@ that respects everyone's time.
 - **White-label status pages** — hosted on your own domain, with your own brand.
 - **Incident timelines & reporting** — a clear record of what happened, when,
   and for how long.
-- **Built for agencies** — manage many clients from one place.
+- **Manage everything in one place** — from a single site to many, across teams
+  or clients.
 
 ## Why Observol
 
@@ -40,8 +41,8 @@ that respects everyone's time.
   monitoring data doesn't take a detour around the world.
 - **Humane on-call.** Alerting designed to reduce fatigue — fewer 3 a.m. false
   alarms, and the right escalation when it's real.
-- **Made for agencies.** Multi-client from the ground up, with status pages you
-  can put your own brand on.
+- **Yours to brand.** White-label status pages on your own domain, whether
+  that's for your product, your team, or your clients.
 
 ## Get in touch
 
